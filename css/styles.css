@@ -45,3 +45,19 @@ body {
 .projects {
   display: flex;
 }
+section {
+  padding: 5px;
+  width: 33.33%;
+}
+.projects ul {
+  list-style-type: none;
+}
+.project-heading {
+  padding-top: 20px;
+}
+.languages {
+  font-weight: bold;
+}
+input {
+  width: 60%;
+}
