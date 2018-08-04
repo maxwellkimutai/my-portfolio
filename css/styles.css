@@ -42,3 +42,6 @@ body {
   margin-left: auto;
   top: 25%;
 }
+.projects {
+  display: flex;
+}
