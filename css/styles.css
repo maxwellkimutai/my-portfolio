@@ -17,6 +17,9 @@ body {
   width: 70%;
   padding-bottom: 20px;
 }
+.about h1, h2, p {
+  padding: 5px;
+}
 .sidebar {
   width: 30%;
   height: 100%;
