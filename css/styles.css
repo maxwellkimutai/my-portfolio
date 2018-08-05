@@ -60,6 +60,10 @@ section {
 }
 input {
   width: 60%;
-} .submit-button {
+}
+.submit-button {
   width: 20%;
+}
+.footer {
+  font-weight: bold;
 }
