@@ -60,4 +60,6 @@ section {
 }
 input {
   width: 60%;
+} .submit-button {
+  width: 20%;
 }
